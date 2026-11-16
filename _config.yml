@@ -50,9 +50,9 @@ actions:
     enabled: false
 
 pwa:
-  enabled: true
+  enabled: false
   cache:
-    enabled: true
+    enabled: false
 
 paginate: 10
 
