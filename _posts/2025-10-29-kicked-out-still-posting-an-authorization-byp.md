@@ -3,9 +3,9 @@ title: "Kicked Out, Still Posting: An Authorization Bypass in Class API"
 date: 2025-10-29 10:04:28 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
-image: "https://cdn-images-1.medium.com/max/262/1*AG874IyNfTlceXUbcYE4SQ.jpeg"
-thumbnail: "https://cdn-images-1.medium.com/max/262/1*AG874IyNfTlceXUbcYE4SQ.jpeg"
-medium_link: "https://medium.com/@yosefmostef99/kicked-out-still-posting-an-authorization-bypass-in-class-api-c290c4e8d4d5"
+image:
+  path: "https://cdn-images-1.medium.com/max/262/1*AG874IyNfTlceXUbcYE4SQ.jpeg"
+  alt: "Kicked Out, Still Posting: An Authorization Bypass in Class API"
 description: "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ الْمُجَاهِدِ الشَّهِيدِ…اللَّهُمَّ انصُرْ أَهْلَ غَزَّةَ وَفِلَسْطِينَ وَالسُّودَانَ، وَطَهِّرِ الْأَقْصَى مِنْ دَنَسِ الْيَهُودِ… أَمَّا بَعْدُ"
 toc: true
 ---
