@@ -3,6 +3,10 @@ title: "How I Turned a “No” into an IDOR.."
 date: 2025-09-12 03:47:51 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
+image: "https://cdn-images-1.medium.com/max/228/1*GwuDl1qK62AVCOMNk_tjMg.jpeg"
+thumbnail: "https://cdn-images-1.medium.com/max/228/1*GwuDl1qK62AVCOMNk_tjMg.jpeg"
+medium_link: "https://medium.com/@yosefmostef99/how-i-turned-a-no-into-an-idor-e27383af8709"
+description: "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ الْمُجَاهِدِ الشَّهِيدِ… اللَّهُمَّ انْصُرْ أَهْلَ غَزَّةَ وَفِلَسْطِينَ، وَطَهِّرِ الْأَقْصَى مِنْ دَنَسِ الْيَهُودِ… أَمَّا بَعْدُ"
 toc: true
 ---
 
