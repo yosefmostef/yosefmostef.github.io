@@ -10,10 +10,10 @@ I’m **Yosef Mohamed**, a cybersecurity professional with hands-on experience i
 
 ---
 
-### Certifications & Pursuits
+### Certifications
 
-- 🎯 **CRTA** (*Certified Red Team Analyst*) — Holder
-- ⏳ **CPTS** (*Certified Penetration Testing Specialist*) — Currently Pursuing
+- CRTA (Certified Red Team Analyst)
+- CPTS (Certified Penetration Testing Specialist) - in progress -
 
 ---
 
