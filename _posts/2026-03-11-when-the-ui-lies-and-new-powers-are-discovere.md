@@ -3,9 +3,9 @@ title: "When the UI lies and new powers are discovered."
 date: 2026-03-11 17:27:03 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
-image: "https://cdn-images-1.medium.com/max/736/1*sX-gXXwahTu8wC9v4ir_7g.jpeg"
-thumbnail: "https://cdn-images-1.medium.com/max/736/1*sX-gXXwahTu8wC9v4ir_7g.jpeg"
-medium_link: "https://medium.com/@yosefmostef99/when-the-ui-lies-and-new-powers-are-discovered-bb39d97beeaf"
+image:
+  path: "https://cdn-images-1.medium.com/max/736/1*sX-gXXwahTu8wC9v4ir_7g.jpeg"
+  alt: "When the UI lies and new powers are discovered."
 description: "سْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ الْمُجَاهِدِ الشَّهِيدِ…اللَّهُمَّ انصُرْ أَهْلَ غَزَّةَ وَفِلَسْطِينَ وَالسُّودَانَ، وَطَهِّرِ الْأَقْصَى مِنْ دَنَسِ الْيَهُودِ… أَمَّا بَعْدُ"
 toc: true
 ---
