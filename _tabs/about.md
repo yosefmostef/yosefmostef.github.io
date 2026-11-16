@@ -6,15 +6,30 @@ order: 4
 
 # About Me
 
-I am **Yosef Mohamed**, passionate about cybersecurity with experience and study focused on:
-- **Web Security**
-- **Android Security**
-- **Active Directory (AD)**
-- **Networks**
+I’m **Yosef Mohamed**, a cybersecurity professional with hands-on experience in offensive security. My work centers on **web application security**, **Android security**, **Active Directory environments**, and **network penetration testing**.
 
 ---
 
-### My Profiles & Activities
+### Certifications & Pursuits
+
+- 🎯 **CRTA** (Certified Red Team Analyst) — Holder
+- ⏳ **CPTS** (Certified Penetration Testing Specialist) — Currently Pursuing
+
+---
+
+### Philosophy & Reading
+
+I am an avid, dedicated reader who acquires security knowledge in a deep, structured manner through foundational security literature. Some of the influential books I've thoroughly studied include:
+- *The Web Application Hacker's Handbook*
+- *Bug Bounty Bootcamp*
+- *Real-World Bug Hunting*
+- *And more...*
+
+I always combine deep theoretical understanding with continuous practical application, lab experimentation, and real-world testing.
+
+---
+
+### Connect & Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/yosef-mostef/)
 - [Medium](https://medium.com/@yosefmostef99)
@@ -22,9 +37,5 @@ I am **Yosef Mohamed**, passionate about cybersecurity with experience and study
 - [HackTheBox](https://app.hackthebox.com/public/users/2142280)
 - [pwn.college](https://pwn.college/hacker/155343)
 - [GitHub](https://github.com/yosefmostef)
-
----
-
-I love books, studying, and acquiring my security knowledge in a structured, book-driven way. I always enjoy hands-on experimentation, deep-dive research, and practical application.
 
 :)
