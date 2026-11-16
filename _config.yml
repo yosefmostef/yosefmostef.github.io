@@ -10,12 +10,12 @@ lang: en
 timezone: Africa/Cairo
 
 # jekyll-seo-tag settings
-title: Yosef Mostafa
+title: Yosef Mohamed
 
-tagline: Security Research | Red Teaming | Low-Level Internals
+tagline: "Just a man love learn and hacking and hacking 2 learn :)"
 
 description: >-
-  In-depth research on Windows Internals, EDR Tradecraft, Reverse Engineering, and Offensive Security.
+  Personal technical writeups, bug bounty research, and cybersecurity notes by Yosef Mohamed.
 
 url: "https://yosefmostef.github.io"
 
@@ -26,12 +26,17 @@ twitter:
   username: yosefmostef
 
 social:
-  name: Yosef Mostafa
-  email: yosef.contact@example.com
+  name: Yosef Mohamed
+  email: yosefmostef99@gmail.com
   links:
+    - https://www.linkedin.com/in/yosef-mostef/
+    - https://medium.com/@yosefmostef99
+    - https://tryhackme.com/p/yosefmostef
+    - https://app.hackthebox.com/public/users/2142280
+    - https://pwn.college/hacker/155343
     - https://github.com/yosefmostef
 
-# Prefer color scheme setting: dark mode by default
+# Prefer color scheme setting
 theme_mode: dark
 
 # the avatar on sidebar
