@@ -3,6 +3,10 @@ title: "The Illusion of Instant Block"
 date: 2026-09-25 14:16:36 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
+image: "https://cdn-images-1.medium.com/max/736/1*ld-BvwaYMC7tqLcEYRmKCg.png"
+thumbnail: "https://cdn-images-1.medium.com/max/736/1*ld-BvwaYMC7tqLcEYRmKCg.png"
+medium_link: "https://medium.com/@yosefmostef99/the-illusion-of-instant-block-4620220283f9"
+description: "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ الْمُجَاهِدِ الشَّهِيدِ…اللَّهُمَّ انصُرْ أَهْلَ غَزَّةَ وَفِلَسْطِينَ وَالسُّودَانَ، وَطَهِّرِ الْأَقْصَى مِنْ دَنَسِ الْيَهُودِ… أَمَّا بَعْدُ"
 toc: true
 ---
 
