@@ -6,23 +6,25 @@ order: 4
 
 # About Me
 
-Hello! I'm **Yosef Mostafa**, a cybersecurity enthusiast and security researcher focused on **Red Teaming**, **Windows Internals**, **Reverse Engineering**, and **Exploit Development**.
-
-This blog serves as my technical lab notebook where I document in-depth research, security tool developments, and vulnerability analyses.
-
----
-
-### Areas of Focus & Research
-
-- **Windows Internals & Kernel Security:** Driver analysis, BYOVD triage, Kernel callbacks, Object managers.
-- **EDR Tradecraft & Evasion:** Direct & Indirect Syscalls, Hook detection & unhooking, Call stack spoofing, Sleep obfuscation.
-- **Offensive Tooling:** Custom loaders, shellcode injection techniques, and static/dynamic evasions in C/C++ and Assembly.
-- **Web & API Security:** Access control (BAC/IDOR), authentication bypasses, and logic flow exploitation.
+I am **Yosef Mohamed**, passionate about cybersecurity with experience and study focused on:
+- **Web Security**
+- **Android Security**
+- **Active Directory (AD)**
+- **Networks**
 
 ---
 
-### Connect
+### My Profiles & Activities
 
-Feel free to connect or reach out regarding research or collaborations:
+- [LinkedIn](https://www.linkedin.com/in/yosef-mostef/)
+- [Medium](https://medium.com/@yosefmostef99)
+- [TryHackMe](https://tryhackme.com/p/yosefmostef)
+- [HackTheBox](https://app.hackthebox.com/public/users/2142280)
+- [pwn.college](https://pwn.college/hacker/155343)
+- [GitHub](https://github.com/yosefmostef)
 
-- **GitHub:** [@yosefmostef](https://github.com/yosefmostef)
+---
+
+I love books, studying, and acquiring my security knowledge in a structured, book-driven way. I always enjoy hands-on experimentation, deep-dive research, and practical application.
+
+:)
