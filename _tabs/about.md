@@ -12,20 +12,21 @@ I’m **Yosef Mohamed**, a cybersecurity professional with hands-on experience i
 
 ### Certifications & Pursuits
 
-- 🎯 **CRTA** (Certified Red Team Analyst) — Holder
-- ⏳ **CPTS** (Certified Penetration Testing Specialist) — Currently Pursuing
+- 🎯 **CRTA** (*Certified Red Team Analyst*) — Holder
+- ⏳ **CPTS** (*Certified Penetration Testing Specialist*) — Currently Pursuing
 
 ---
 
 ### Philosophy & Reading
 
-I am an avid, dedicated reader who acquires security knowledge in a deep, structured manner through foundational security literature. Some of the influential books I've thoroughly studied include:
-- *The Web Application Hacker's Handbook*
-- *Bug Bounty Bootcamp*
-- *Real-World Bug Hunting*
-- *And more...*
+I am an avid reader who acquires security knowledge in a deep, structured manner through foundational literature. Some of the core books I have thoroughly studied include:
 
-I always combine deep theoretical understanding with continuous practical application, lab experimentation, and real-world testing.
+- 📖 ***The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws*** *(by Dafydd Stuttard & Marcus Pinto)*
+- 📖 ***Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities*** *(by Vickie Li)*
+- 📖 ***Real-World Bug Hunting: A Field Guide to Web Hacking*** *(by Peter Yaworski)*
+- *...and more.*
+
+I strongly believe in marrying comprehensive theoretical knowledge with continuous hands-on experimentation and practical application.
 
 ---
 
