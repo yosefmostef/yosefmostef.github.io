@@ -1,0 +1,174 @@
+---
+layout: default
+---
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic:wght@400;500;700&display=swap');
+
+.posts-list-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.blog-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 150px;
+  background-color: #2b2d30 !important;
+  border-radius: 16px !important;
+  padding: 24px !important;
+  gap: 24px;
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  box-sizing: border-box;
+  transition: background-color 0.2s ease, transform 0.2s ease !important;
+  cursor: pointer;
+}
+
+.blog-card:hover {
+  background-color: #313338 !important;
+  transform: translateY(-2px) !important;
+  text-decoration: none !important;
+}
+
+.blog-card .text-column {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blog-card .card-title {
+  color: #d4d4d4 !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  font-family: 'Source Sans Pro', 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  line-height: 1.35 !important;
+  margin: 0 0 8px 0 !important;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.blog-card .card-excerpt {
+  color: #8c8c8c !important;
+  font-size: 15px !important;
+  line-height: 1.7 !important;
+  margin: 0 0 16px 0 !important;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  unicode-bidi: plaintext;
+  font-family: 'Noto Naskh Arabic', 'Amiri', 'Source Sans Pro', 'Lato', sans-serif !important;
+}
+
+.blog-card .meta-row {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  font-size: 13px !important;
+  color: #8c8c8c !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.blog-card .meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #8c8c8c !important;
+}
+
+.blog-card .meta-icon {
+  width: 16px;
+  height: 16px;
+  stroke: #8c8c8c;
+  stroke-width: 1.8;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  flex-shrink: 0;
+}
+
+.blog-card .thumbnail-wrapper {
+  flex-shrink: 0;
+  width: 160px;
+  height: 110px;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #1f2023;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog-card .thumbnail-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+  display: block;
+  border: none;
+}
+
+@media (max-width: 640px) {
+  .blog-card {
+    padding: 18px !important;
+    gap: 16px;
+  }
+  .blog-card .card-title {
+    font-size: 18px !important;
+  }
+  .blog-card .thumbnail-wrapper {
+    width: 96px;
+    height: 80px;
+  }
+}
+</style>
+
+<div class="posts-list-container">
+  {% for post in site.posts %}
+    <a href="{{ post.medium_link | default: post.url }}" target="_blank" rel="noopener noreferrer" class="blog-card">
+      <div class="text-column">
+        <h2 class="card-title">{{ post.title }}</h2>
+        <p class="card-excerpt" dir="auto">{{ post.description | default: post.excerpt | strip_html | strip }}</p>
+        <div class="meta-row">
+          <span class="meta-item">
+            <svg class="meta-icon" viewBox="0 0 24 24">
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+              <line x1="16" y1="2" x2="16" y2="6"></line>
+              <line x1="8" y1="2" x2="8" y2="6"></line>
+              <line x1="3" y1="10" x2="21" y2="10"></line>
+            </svg>
+            {{ post.date | date: "%b %d, %Y" }}
+          </span>
+          {% if post.categories.size > 0 %}
+            <span class="meta-item">
+              <svg class="meta-icon" viewBox="0 0 24 24">
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              {{ post.categories | join: ', ' }}
+            </span>
+          {% endif %}
+        </div>
+      </div>
+
+      {% if post.thumbnail or post.image %}
+        <div class="thumbnail-wrapper">
+          <img src="{{ post.thumbnail | default: post.image }}" alt="{{ post.title }}" class="thumbnail-img" loading="lazy">
+        </div>
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>
