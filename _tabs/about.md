@@ -17,16 +17,14 @@ I’m **Yosef Mohamed**, a cybersecurity professional with hands-on experience i
 
 ---
 
-### Philosophy & Reading
+### Books
 
-I am an avid reader who acquires security knowledge in a deep, structured manner through foundational literature. Some of the core books I have thoroughly studied include:
+I build my security knowledge on solid foundations and test every idea hands-on. I generally prefer reading to taking courses, and I learn best through practice in home labs and on platforms such as Hack The Box and TryHackMe.
 
-- 📖 ***The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws*** *(by Dafydd Stuttard & Marcus Pinto)*
-- 📖 ***Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities*** *(by Vickie Li)*
-- 📖 ***Real-World Bug Hunting: A Field Guide to Web Hacking*** *(by Peter Yaworski)*
-- *...and more.*
-
-I strongly believe in marrying comprehensive theoretical knowledge with continuous hands-on experimentation and practical application.
+- **Web Security:** I have read extensively on web security, including *The Web Application Hacker’s Handbook*, *Bug Bounty Bootcamp*, *Real-World Bug Hunting*, *Hacking APIs*, and *Web Hacking Arsenal*.
+- **Red Team Mindset and Methodology:** The *How to Hack Like* series, which focuses on scenario-based red team methodology.
+- **General Penetration Testing:** *Penetration Testing: A Hands-On Introduction to Hacking*, *Advanced Security Testing with Kali Linux*, and *Ethical Hacking: A Hands-On Introduction to Breaking In*.
+- **Android Security:** *Hacking Exposed Mobile: Security Secrets & Solutions* and *Android Hacker’s Handbook*, among others.
 
 ---
 
