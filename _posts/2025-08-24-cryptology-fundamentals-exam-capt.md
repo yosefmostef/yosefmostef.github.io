@@ -3,6 +3,10 @@ title: "Cryptology Fundamentals Exam-CAPT-"
 date: 2025-08-24 11:27:29 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
+image: "https://cdn-images-1.medium.com/max/1024/1*jaSLUMrjWWLldJCHNBpZOw.png"
+thumbnail: "https://cdn-images-1.medium.com/max/1024/1*jaSLUMrjWWLldJCHNBpZOw.png"
+medium_link: "https://medium.com/@yosefmostef99/cryptology-fundamentals-exam-capt-72c1dfbe83df"
+description: "I’m really excited to share my very first article on Medium! ⚔:-D It will cover a set of questions from the Cryptology Fundamentals section of the Certified Associate Penetration Tester (CAPT) certification."
 toc: true
 ---
 
