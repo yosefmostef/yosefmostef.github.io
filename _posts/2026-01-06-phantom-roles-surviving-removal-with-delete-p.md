@@ -3,9 +3,9 @@ title: "Phantom Roles: Surviving Removal with Delete Powers and Bypassing Add Re
 date: 2026-01-06 16:47:52 +0000
 categories: [bugbounty writeup]
 tags: [bug-bounty, writeup, web-security]
-image: "https://cdn-images-1.medium.com/max/827/1*dWNP3fzpOWLzst3SXDsgOQ.jpeg"
-thumbnail: "https://cdn-images-1.medium.com/max/827/1*dWNP3fzpOWLzst3SXDsgOQ.jpeg"
-medium_link: "https://medium.com/@yosefmostef99/phantom-roles-surviving-removal-with-delete-powers-and-bypassing-add-restrictions-404ea6439ad0"
+image:
+  path: "https://cdn-images-1.medium.com/max/827/1*dWNP3fzpOWLzst3SXDsgOQ.jpeg"
+  alt: "Phantom Roles: Surviving Removal with Delete Powers and Bypassing Add Restrictions."
 description: "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى النَّبِيِّ الْمُجَاهِدِ الشَّهِيدِ…اللَّهُمَّ انصُرْ أَهْلَ غَزَّةَ وَفِلَسْطِينَ وَالسُّودَانَ، وَطَهِّرِ الْأَقْصَى مِنْ دَنَسِ الْيَهُودِ… أَمَّا بَعْدُ"
 toc: true
 ---
